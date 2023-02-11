@@ -1,0 +1,15 @@
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\bin\Debug\net7.0\Api.Tests.exe
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\bin\Debug\net7.0\Api.Tests.deps.json
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\bin\Debug\net7.0\Api.Tests.runtimeconfig.json
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\bin\Debug\net7.0\Api.Tests.dll
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\bin\Debug\net7.0\Api.Tests.pdb
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\Api.Tests.csproj.AssemblyReference.cache
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\Api.Tests.GeneratedMSBuildEditorConfig.editorconfig
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\Api.Tests.AssemblyInfoInputs.cache
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\Api.Tests.AssemblyInfo.cs
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\Api.Tests.csproj.CoreCompileInputs.cache
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\Api.Tests.dll
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\refint\Api.Tests.dll
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\Api.Tests.pdb
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\Api.Tests.genruntimeconfig.cache
+F:\CoreSample\.net core projects\PravasiPensionScheme\Api.Tests\obj\Debug\net7.0\ref\Api.Tests.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PravasiPensionScheme", "PravasiPensionScheme\PravasiPensionScheme.csproj", "{3CEF9BA0-C74A-4B2B-BF24-7A9D3BF47059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Tests", "Api.Tests\Api.Tests.csproj", "{C47ED9EC-4523-4E93-8157-A86381DCA322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CEF9BA0-C74A-4B2B-BF24-7A9D3BF47059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEF9BA0-C74A-4B2B-BF24-7A9D3BF47059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEF9BA0-C74A-4B2B-BF24-7A9D3BF47059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEF9BA0-C74A-4B2B-BF24-7A9D3BF47059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47ED9EC-4523-4E93-8157-A86381DCA322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47ED9EC-4523-4E93-8157-A86381DCA322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47ED9EC-4523-4E93-8157-A86381DCA322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47ED9EC-4523-4E93-8157-A86381DCA322}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {658EE138-D332-4094-BC5A-6328A4A23EA2}
+	EndGlobalSection
+EndGlobal
