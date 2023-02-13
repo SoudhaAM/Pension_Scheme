@@ -6,6 +6,7 @@ using PravasiPensionScheme.DTOs;
 using PravasiPensionScheme.Entities;
 using PravasiPensionScheme.Interfaces;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 
 namespace PravasiPensionScheme.Controllers
 {
@@ -31,6 +32,7 @@ namespace PravasiPensionScheme.Controllers
 
         }
         [HttpPost]
+        [Authorize(Roles = "Api.ReadWrite")]
         public async Task<IActionResult>AddPlans([FromForm]PlansDto PlanRequest)
         {
             var plan = _mapper.Map<Plan>(PlanRequest);
